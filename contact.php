@@ -36,7 +36,7 @@
                 </div>
             </div>
             <div class="col-lg-5" id="lg5">
-            <img src="contactIMG/Group 11.png" class="img-fluid" alt="...">
+            <img src="contactIMG/Group 11.png" class="img-fluid" alt="image">
             <div id="p">
                 <p> <i class="fa-solid fa-location-dot"></i>  Antananarivo, Madagascar</p>
                 <p> <i class="fas fa-phone"></i> +261 32 64 372 36</p>
